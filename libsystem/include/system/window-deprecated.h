@@ -96,6 +96,8 @@ typedef struct android_native_rect_t
 } android_native_rect_t;
 
 // ---------------------------------------------------------------------------
+// Old typedef for backwards compatibility.  
+  typedef ANativeWindowBuffer_t android_native_buffer_t;
 // ---------------------------------------------------------------------------
 
 /* attributes queriable with query() */
