@@ -42,6 +42,7 @@
 #include <sys/cdefs.h>
 #include <system/graphics.h>
 #include <unistd.h>
+#include "../../../../../frameworks/native/libs/nativebase/include/nativebase/nativebase.h" 
 #include <stdbool.h>
 
 #ifndef __UNUSED
